@@ -1,0 +1,62 @@
+#backgroundColor {
+    background: rebeccapurple;
+    max-height: 100%;
+    padding: 30px;
+    margin: 0 auto;
+    clear: both;
+}
+
+#game {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}
+
+#gameTitle {
+    text-align: center;
+    border: 2px solid black;
+    text-align: center;
+    padding: 30px;
+    background: brown;
+}
+
+#timerDisplayBox {
+    background: brown;
+    border: 2px solid black;
+    text-align: center;
+    padding: 30px;
+    margin: 20px 20px 20px 0px;
+    visibility: visible;
+}
+
+
+#questionDisplayBox {
+    text-align: center;
+    border: 2px solid black;
+    padding: 30px;
+    background: brown;
+    margin: 0 0 20px 0;
+    visibility: visible;
+}
+
+#questionLine1 {
+    text-align: center;
+}
+
+#questionLine2 {
+    text-align: center;
+}
+
+#questionLine3 {
+    text-align: center;
+}
+
+#results {
+    text-align: center;
+    border: 2px solid black;
+    padding: 30px;
+    background: brown;
+    margin: 0 0 20px 0;
+    visibility: hidden;
+}
